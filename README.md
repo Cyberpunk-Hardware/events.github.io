@@ -1,2 +1,2 @@
-# kman2140.github.io
-website for Cyberpunk Hardware
+# events.github.io
+website for Cyberpunk Hardware events
